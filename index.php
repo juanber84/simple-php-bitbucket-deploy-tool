@@ -111,5 +111,3 @@ class deploy
 $deploy = new deploy();
 $deploy->checkSecurity();
 $deploy->execute();
-
-
