@@ -1,4 +1,4 @@
-# Simple php bitbucke deploy tool
+# Simple php bitbucket deploy tool
 A simple tool for automatic bitbucket deploy
 
 Only you must do the following 3 steps:
